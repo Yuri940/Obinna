@@ -180,7 +180,7 @@ function turboBoost() {
   // Se non siamo già al massimo
   if (turbo < 4) {
     // Cambiamo l'immagine' e aumentiamo il turbo per aumentare la lancetta
-    turboButton.innerHTML = `<img src="images/gauge-${++turbo}.png">`;
+    turboButton.innerHTML = `<img src="gauge-${++turbo}.png">`;
 
     // incremento la velocità 
     incrementSpeed();
