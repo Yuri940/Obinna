@@ -67,7 +67,7 @@ header img {
 /* # Griglia di gioco */
 
 .street {
-	background-image: url(images/background.png);
+	background-image: url('background.png');
 	border-radius: 20px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -103,27 +103,27 @@ header img {
 }
 
 .grass {
-	background-image: url('images/2.png');
+	background-image: url('2.png');
 }
 
 .fence {
-	background-image: url('images/4.png');
+	background-image: url('4.png');
 }
 
 .kart {
-	background-image: url('images/3.png');
+	background-image: url('3.png');
 }
 
 .cones {
-	background-image: url('images/5.png');
+	background-image: url('5.png');
 }
 
 .water {
-	background-image: url('images/6.png');
+	background-image: url('6.png');
 }
 
 .coin {
-	background-image: url('images/coin.gif');
+	background-image: url('coin.gif');
 }
 
 /* # Pannello di guida */
