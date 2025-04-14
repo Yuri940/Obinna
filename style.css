@@ -99,7 +99,7 @@ header img {
 /* # Ostacoli */
 
 .rock {
-	background-image: url('images/1.png');
+	background-image: url(1.png);
 }
 
 .grass {
